@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c20fca69-b729-4af2-86b7-550b55381efa)# 본사 및 지사 보안 인프라 구축
+# 본사 및 지사 보안 인프라 구축
 
 ## 초기 네트워크 구성도
 ![image](https://github.com/user-attachments/assets/7d3b8118-b0e3-4c97-858a-57b4e97df17d)
